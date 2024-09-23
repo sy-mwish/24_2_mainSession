@@ -5,5 +5,5 @@
 전체적인 개인 코드를 모아둔 구성원들의 깃 레파지토리입니다.  
 이 레파지토리보다 더 많은 설명, 리펙토링이 존재합니다. 
 
-지민 : 
+지민 : [tic-tac-toe](https://github.com/Tonnonssi/tic_tac_toe.git)  
 승연 : 
